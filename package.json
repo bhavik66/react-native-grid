@@ -1,0 +1,30 @@
+{
+  "name": "react-native-grid",
+  "version": "0.1.0",
+  "description": "Grid view for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavik66/react-native-grid.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-native-grid",
+    "grid-view",
+    "grid"
+  ],
+  "author": "Bhavik Charola <bhavikcharola@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhavik66/react-native-grid/issues"
+  },
+  "homepage": "https://github.com/bhavik66/react-native-grid#readme",
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2"
+  }
+}
