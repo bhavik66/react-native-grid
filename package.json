@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bhavik66/react-native-grid.git"
+    "url": "git+https://github.com/bhavik66/react-native-simple-grid.git"
   },
   "keywords": [
     "react",
@@ -21,9 +21,9 @@
   "author": "Bhavik Charola <bhavikcharola@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bhavik66/react-native-grid/issues"
+    "url": "https://github.com/bhavik66/react-native-simple-grid/issues"
   },
-  "homepage": "https://github.com/bhavik66/react-native-grid#readme",
+  "homepage": "https://github.com/bhavik66/react-native-simple-grid#readme",
   "dependencies": {
     "prop-types": "^15.6.1",
     "react": "^16.3.2"
