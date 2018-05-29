@@ -1,5 +1,5 @@
 {
-  "name": "react-native-grid",
+  "name": "react-native-simple-grid",
   "version": "0.1.0",
   "description": "Grid view for react native",
   "main": "index.js",
@@ -14,6 +14,7 @@
     "react",
     "react-native",
     "react-native-grid",
+    "react-native-simple-grid",
     "grid-view",
     "grid"
   ],
