@@ -1,6 +1,6 @@
 {
   "name": "react-native-simple-grid",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Grid view for react native",
   "main": "index.js",
   "scripts": {
