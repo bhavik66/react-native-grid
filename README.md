@@ -22,7 +22,7 @@ import Grid from 'react-native-simple-grid';
 		</View>
 	)
 	}}
-	/>
+/>
 ```
 
 ### Properties
