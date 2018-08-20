@@ -40,4 +40,4 @@ other properties are derived from [ListView](https://facebook.github.io/react-na
 
 [Wallpaper World](https://play.google.com/store/apps/details?id=com.pixabro.wallpaperworld)
 
-![enter image description here](https://github.com/bhavik66/react-native-simple-grid/blob/master/screenshot/001.png)
+![react-native-simlpe-grid](https://github.com/bhavik66/react-native-simple-grid/blob/master/screenshot/001.png?raw=true)
