@@ -13,15 +13,15 @@ Easy to use and full customized grid for React Native.
 import Grid from 'react-native-simple-grid';
 
 <Grid
-dataSource={data.data} 
-column={2} 
-rowView={(rowData) => {
-return(
-	<View  style={{flex:  1, backgroundColor:  rowData.color}}  >
-	<Text>{rowData.name}</Text>
-	</View>
-)
-}}
+	dataSource={data}
+	column={2} 
+	rowView={(rowData) => {
+		return (
+			<View style={{flex: 1, backgroundColor: rowData.color}}>
+			<Text>{rowData.name}</Text>
+			</View>
+		)
+	}}
 />
 ```
 
